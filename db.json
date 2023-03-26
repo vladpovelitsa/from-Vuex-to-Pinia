@@ -29,6 +29,24 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "isTrusted": true,
+      "id": "MKBARtI"
+    },
+    {
+      "isTrusted": true,
+      "id": "qQRBWx_"
+    },
+    {
+      "id": "1ee1aaea-8c97-473f-8336-49f3a6838457",
+      "category": "community",
+      "title": "title",
+      "description": "desc",
+      "location": "location",
+      "date": "date",
+      "time": "time",
+      "organizer": "Vlad Povelytsia"
     }
   ]
 }
